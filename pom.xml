@@ -9,16 +9,8 @@
 
 
 	<properties>
-		<hamster.version>4.3.5-SNAPSHOT</hamster.version>
+		<hamster.version>5.0.0</hamster.version>
 	</properties>
-
-	<repositories>
-		<repository>
-			<id>sonatype-snapshots</id>
-			<name>sonatype-snapshots</name>
-			<url>https://s01.oss.sonatype.org/content/repositories/snapshots</url>
-		</repository>
-	</repositories>
 
 	<dependencies>
 		<dependency>
